@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:hemrajani.kunal@gmail.com',
+      url: 'https://kunalhemrajani424978.typeform.com/to/VAn6Wi',
     },
   ],
 };
